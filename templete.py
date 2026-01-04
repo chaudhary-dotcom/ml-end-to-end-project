@@ -24,6 +24,7 @@ list_of_files = [
     'app.py',
     'requirements.txt',
     'setup.py',
+    'research/experiment.ipynb',
     'research/trials.ipynb',
     'templetes/index.html'
 ]
